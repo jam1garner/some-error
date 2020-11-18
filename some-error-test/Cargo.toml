@@ -1,0 +1,8 @@
+[package]
+name = "some-error-test"
+version = "0.1.0"
+authors = ["jam1garner <8260240+jam1garner@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+some-error = { path = "../some-error" }
