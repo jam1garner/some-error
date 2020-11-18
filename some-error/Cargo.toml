@@ -3,6 +3,9 @@ name = "some-error"
 version = "0.5.0"
 authors = ["jam1garner <8260240+jam1garner@users.noreply.github.com>"]
 edition = "2018"
+description = "A library for creating and using anonymous sum types as errors in Rust "
+license = "MIT"
+documentation = "https://docs.rs/some-error"
 
 [lib]
 proc-macro = true
