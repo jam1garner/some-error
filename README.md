@@ -33,3 +33,5 @@ fn main() {
     }
 }
 ```
+
+[Blog post about it!](https://jam1.re/blog/anonymous-sum-types-for-rust-errors)
